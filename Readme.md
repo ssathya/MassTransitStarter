@@ -9,7 +9,7 @@ There are multiple projects but the ones that work/use are:
 |DateHandler  |Publisher|
 |MTCommon|Common stuff across projects|
 |BookExample| Subscriber that works|
-|DateSubscriber|Subscriber that works in .Net Core API project|
+|DateReader|Subscriber that works in .Net Core API project|
 
 There are bunch of other projects=> failed attempts.
 
